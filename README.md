@@ -1,7 +1,7 @@
 # Hu-Shing-Algorithm-MCOP
 Implementing the fastest Matrix Chain Ordering Problem algorithm (devised by Hu &amp; Shing) to compute the number of operations needed for optimal ordering.
 
-Our Python implementation compares Hu-Shing's O(nlogn) approach with an n^3 DP approach.
+Our Python implementation compares Hu-Shing's O(nlogn) approach with a DP O(n^3) approach.
 
 
 # References
